@@ -1,0 +1,75 @@
+---
+
+---
+
+<div class="main-nav">
+  <img src="https://wsrv.nl?url=https://github.com/Jayphen/coasties/assets/329184/74dc8045-f3bf-4715-b73b-c9177e828903&h=100" height="100" width="100"/>
+  <nav>
+      <ul>
+          <li><a href="https://coastiesmag.com.au/category/coastiesmag/restaurants-central-coast/">Eat & Drink</a></li>
+  <li><a href="https://coastiesmag.com.au/category/coastiesmag/things-to-do-central-coast/">Things to Do</a></li>
+  <li><a href="https://coastiesmag.com.au/category/coastiesmag/lets-shop/">Let’s Shop</a></li>
+  <li><a href="https://coastiesmag.com.au/category/coastiesmag/support-local-coastiesmag/">Support Local</a></li>
+  <li><a href="https://coastiesmag.com.au/read-mag/">Read Mag</a></li>
+  <li><a href="https://coastiesmag.com.au/subscribe/">Subscribe</a></li>
+  <li><a href="https://coastiesmag.com.au/about/">About</a></li>
+  <li><a href="https://coastiesmag.com.au/subscription-plan/">Join Now</a></li>
+      </ul>
+  </nav>
+</div>
+
+<style>
+  .main-nav {
+    border-bottom: 1px solid var(--accent-light);
+    padding:0;
+    margin:0;
+    display: flex;
+    width: 100%;
+  }
+
+  nav {
+    flex: 1 0 auto;
+  }
+
+  ul, li { margin: 0; list-style: none; }
+  ul {
+    display: flex;
+    gap: 1em;
+    margin-right: 2em;
+    height: 100%;
+  }
+  li {
+    a {
+      display: grid;
+      align-content: end;
+      height: 100%;
+      color: black;
+      text-decoration: none;
+      font-weight: 600;
+      padding-bottom: 1em;
+
+      &:hover {
+        border-bottom: 4px solid var(--accent-light);
+      }
+    }
+  }
+
+  @media (max-width: 80rem) {
+    .main-nav {
+      flex-direction: column;
+      align-items: center;
+      font-size: 80%;
+      gap: 1em;
+
+      li:nth-child(2n) {
+        display: none;
+      }
+
+      a:hover {
+        border: none;
+        color: lch(from var(--accent) calc(l - 20) c h);
+      }
+    }
+  }
+  
+</style>
