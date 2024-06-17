@@ -1,0 +1,186 @@
+---
+layout: ../layouts/Post.astro
+title: "Whale Watching on the Central Coast: The Best Places to Spot Them"
+author: "Tash Robertson"
+date: "May 22, 2024"
+---
+
+#### Back to [Things To Do](https://coastiesmag.com.au/category/coastiesmag/things-to-do-central-coast/)
+
+#### Author: [Tash Robertson](https://coastiesmag.com.au/author/tash/) | Date: [May 22, 2024](https://coastiesmag.com.au/2024/05/22/)
+
+**Reading Time: 8 minutes**
+
+![Whale watching central coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/06/hubjack70_1654584565_2855184732529159988_5453557183-819x1024.jpg)
+*Image by @Hubjack70*
+
+## Best Central Coast Whale Watching Spots
+
+The whales are about to start their journey past the Central Coast and grace our waters with their presence. From our many talented drone photographers to locals who love to catch glimpses of the whales, everyone is waiting with bated breath for their first sighting. We have heard that a few have been spotted already, so keep those beady eyes of yours peeled.
+
+__ADVERTISEMENT:__  
+[![Central Coast events](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2024/05/600x500_Inline-Article_Whats-On-1024x853.png)](https://www.lovecentralcoast.com/events)
+
+As always, we have done the hard yards and popped together this handy list of all of the very best of the Central Coast’s whale watching locations (as well as handy tips on where you can support local while grabbing a cuppa or a bite to eat).
+
+Our region is set to welcome over 25,000 humpback whales to our waters during the migration months of May through November. It is no wonder that this mass movement of these majestic creatures has been termed the “Humpback Highway”. Travelling from Antarctica and towards the warmer waters of the Pacific, the whales glide through our region’s waters en mass, playfully breaching and slapping their fins and tails, a truly wonderful sight to see in real life. Being on the Central Coast we are so lucky as our region boasts some truly outstanding vantage points, where even without binoculars, a drone or a fancy camera in hand you get the opportunity to see the whales up pretty close to shore.
+
+### Best places to spot whales on the Central Coast
+
+![Whales central coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2088.jpg)
+*Image by @fromabove.images*
+
+### Best Whale Watching spots on the Central Coast
+
+**Crackneck Lookout, Wyrrabalong National Park**
+
+![Upgrade to Crackneck lookout great for Whale Watching](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/06/image008-1.png)
+*Upgrade to Crackneck lookout now complete – image supplied*
+
+[Crackneck Lookout](https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/crackneck-point-lookout) is the ultimate Central Coast whale watching spot, the views are uninterrupted! Newly renovated last year means that this spot has become only better to spend some time at. There are plenty of picnic tables or benches available to grab a spot to sit and watch while the kids can enjoy playing on the levelled-out tiers of grassed areas. Alternatively, for those feeling energetic, you can walk the 3km trail and spot along the way at the various vantage points.
+
+During peak season and school holidays, this popular spot becomes busy and parking can be tricky, so our hot tip is to get there early. Grab a coffee from [Bateau Beach Cafe](https://www.facebook.com/bateaubeachcafe/), pack yourselves a picnic, and spend the morning in the winter sunshine for hours enjoying the view.
+
+**Cromarty Hill, Forresters Beach**
+
+__ADVERTISEMENT:__  
+[![Skydive Central Coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2024/04/SkydiveNewcastle_CoastiesAd_600x500px.jpg)](https://www.skydive.com.au/locations/sydney-newcastle/)
+
+Whether you’ve parked at Crackneck Lookout and walked over, or simply driven up to Cromarty Hill, you will not be disappointed by the views on offer. You can look south back towards Forresters Beach and Terrigal, or directly east across the vast ocean. There is limited parking available and a narrow, residential road, so be sure to take it easy and mind the walkers. Forries best coffee spots are [Di Matteos](http://dimatteos.com.au/) or [Drift Coffee Kazbah](https://www.facebook.com/driftcoffeekazbah/).
+
+**The Skillion, Terrigal**
+
+![The Skillion in Terrigal](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/09/fromabove.images_369178519_18009612775872142_4156587317966829470_n-1024x767.jpg)
+*The Skillion in Terrigal by From Above Images by Christopher*
+
+The Skillion and the whole headland in Terrigal offer many great locations to view the whales from. Often we find the small car park between the two big headlands opposite the rugby club is an epic spot. There is a grassed area where you can set up a picnic or you can also head down onto the rocks closer to the water. Please note: this area is not patrolled so you need to be cautious and safe, especially if the weather is wet and the swell large.
+
+Another crowd-pleaser for whale watching in Terrigal is The Skillion, this is the steepest hill found at Terrigal Haven. If there are whales in the area, you’ll definitely see them from up here. Plus, there are many cool cafes for a coffee or breakfast stop after all that walking. Plus, views, views, and more views for days from so many spots around the Haven.
+
+__ADVERTISEMENT:__  
+[![Coasties Card App](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/09/Inline-display-ad-1.png)](https://coastiesmag.com.au/subscription-plan/)
+
+Our suggestions for caffeine: [Terrigal Pavilion](https://terrigalpavilion.com.au/) (note the Pavilion’s renovations are set to start in June 2024, so it is just the pop-up window that will remain open during this time), or the [Haven Kiosk](https://www.facebook.com/HavenBeachRestaurantandKiosk/), great coffee, and even better seafood.
+
+*RELATED: [Central Coast Whale Watching Spot Crackneck Lookout’s Upgrade is Complete](https://coastiesmag.com.au/whale-watching-crackneck-central-coast/)*
+
+**Captain Cook Lookout, Copacabana Beach**
+
+While it’s a bit of a trek to Captain Cook Lookout, it’s one of the best vantage points to watch whales on the Central Coast. Hugely popular year-round, here you’ll be able to look out to the ocean that runs all the way to Terrigal, through Avoca, and down to Macmasters. In other words, whale spotting is just about guaranteed. Please note, “almost”, whales are creatures out in the wild, we of course cannot guarantee they will show up when you show up to see them!
+
+**Coffee**: [Oh Bless Home](https://ohblesshome.com.au/) or [The Bees Knees Eatery](https://www.instagram.com/thebeeskneeseatery/)
+
+**Norah Head Lighthouse, Norah Head**
+
+![Whale watching central coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/06/clay.sweetman_1696581834_3207483357885429721_8454454067-_1_-819x1024.jpg)
+*Image by Clay Sweetman*
+
+Whale season or not, [Norah Head Lighthouse](https://norahheadlighthouse.com.au/) is an iconic Central Coast landmark that is always worth a visit. You can park at the lighthouse or if you prefer a bush walk, park at Norah Head General Store. You walk through the bush to the lighthouse and then down the stairs to the rock shelf where you can loop back around to the café via the beach. Takes less than an hour in total, and you’ll undoubtedly see whales. It is also a prime spot for spotting pods of playful dolphins.
+
+**Coffee**: [Norah Head Beach Haus](https://www.facebook.com/thegeneralstorenh/)
+
+**Bouddi Coastal Walk, Bouddi National Park**
+
+![Bouddi Coastal Walk](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2022/05/bouddi-1024x683.jpg)
+
+The Bouddi Coastal Walk in [Bouddi National Park](https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bouddi-national-park) runs from Putty Beach to Macmasters Beach, with a large part of the 8.km boardwalk offering outstanding ocean views and ample opportunity to spot whales. Take a picnic with you and enjoy it at any of the many beaches you pass along the way. A wintery swim at one of the many beautiful spots along the way should also be part of your plan.
+
+**Coffee**: Hardy’s Bistro or [The Fat Goose](https://www.thefatgoose.com.au/)
+
+![Whale Watching Spots Central Coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res.jpg)
+*Image by @zeemerven*
+
+**Bateau Bay Beach Viewing Area**
+
+This sandstone viewing platform over Bateau Bay beach is a prime spot for whale watching on the Central Coast, even if it’s not as elevated as the rest. Best of all, there’s plenty of parking, great coffee at the [Bateau Beach Café](https://www.facebook.com/bateaubeachcafe/), and picnic tables throughout. If you enjoy a bushwalk, you can walk north towards Shelley Beach, or south up to Crackneck Lookout for an even more spectacular view.
+
+**Coffee**: [Cafe Mocha](https://www.facebook.com/profile.php?id=100063034669430)
+
+**Toowoon Bay Beach**
+
+If you’re walking or cycling the Coast to Lake walk as you pass through Toowoon we suggest you make a detour on Toowoon Bay Rd, at the end toward the water there are some steps down to the water and a couple of park benches. You’ll often be able to spot the whales from here as well as if you head down to the beach to take a dip in the ocean.
+
+Pick up a breakfast roll and coffee at [Flour & Co](https://www.instagram.com/flourandco_/?hl=en) at the Toowoon shops or down on the beach at the [Village Kiosk](https://www.facebook.com/VillageKiosk/) on the beach.
+
+*You might also like to try: [The Top 10 Central Coast Walks For a Nature Hit](https://coastiesmag.com.au/10-central-coast-walks-nature/)*
+
+![whale watching central coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2021/05/Whale-DronedOutPhotography-833x1024.jpeg)
+*Whale watching on the Central Coast. Image by @dronedoutphotography*
+
+## Whale watching tours on the Central Coast
+
+Prefer to go on a whale watching tour? We don’t blame you! For those who have great sea legs, this is your chance to get even more up close and personal with these gorgeous creatures. Plus, you get to learn a stack when on a guided tour and given that most vantage points require you to walk up a hill you get to save those pins from the burn!
+
+**Terrigal Ocean Tours**
+
+![terrigal ocean tours whale watching central coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/05/terrigalocean_308791246_167589469261735_7213559234428319276_n-1-1024x719.jpg)
+
+The most popular whale watching tour on the Central Coast is [Terrigal Ocean Tours](https://terrigaltours.com.au/). Whale watching tours with Terrigal Ocean Tours run from May through to November. They depart Terrigal and sail around the Central Coast waters to find whales, with a 60-minute trip costing $70 at weekends and $60 midweek. They also accept Discover & Parents NSW Vouchers.
+
+**Whale Watching Sydney**
+
+![Central Coast whale watching](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2089.jpg)
+*Image by @fromabove.images*
+
+There’s also [Whale Watching Sydney](https://www.whalewatchingsydney.com.au/cruises/central-coast-whale-watching/) that offers Central Coast Whale Watching tours from Ettalong, departing on Saturdays during whale season—get in quick, spots are filling up fast. The tour costs $85 per adult (child & concession prices are available). They offer a whale guarantee which means if you don’t spot them, you can re-book for free at another date.
+
+*Continue reading:  
+  - [The Best Spots on The Central Coast for a Picnic](https://coastiesmag.com.au/beautiful-picnic-spots-on-the-central-coast/)  
+  - [Your Guide to Running on the Central Coast](https://coastiesmag.com.au/active-running-and-walking-events-and-courses-on-the-central-coast/)*
+
+### Why do Whales migrate?
+Around 25,000 humpback whales travel 5,000 kilometers from their summer feeding grounds near Antarctica to the warmer waters off Queensland and the Coral Sea to mate and give birth.
+
+### What types of whales can you expect to see on the Central Coast?
+While humpback whales are the most spotted breed, the Central Coast has also been the sighting ground for southern right whales, minke whales, and on the rare occasion there have even been orcas spotted in the waters off the Central Coast.
+
+### Will I spot a whale?
+The migration season brings many chances for whale spotting off our coast, with the months of June & July often renowned for some of the busiest months for the Central Coast spotting enthusiasts. If you’re going to spot a whale, this is the time. With 25,000 humpback whales migrating north along Australia’s East Coast there’s a good chance you’ll spot a whale off the Central Coast headlands.
+
+### When is the best time of day to see a whale?
+You can spot a whale on the Central Coast at any time of day, but the morning time is usually the best due to the sunrise lighting illuminating their whale blow more clearly.
+
+### What to look out for when whale spotting on the Central Coast?
+When looking out across the vast oceans, scan the water for imperfections and interruptions to the water’s surface. This could be an indication of a majestic whale just below the surface.
+However, the most magical way to spot a whale is most certainly the glorious breach. This is when a whale propels two-thirds of their body out of the water, landing with a ginormous splash. On the Central Coast, the whales appear to enjoy breaching often.
+You can also look out for a blow, a thick spout of water shooting out from the ocean. Each variety of whale has a different blow which helps marine experts identify which species of whale they are.
+
+**Post Views:** 20,191
+
+### [Check Out The Latest Coasties Card Deals](https://coastiescard.com.au/search-deals/)
+
+#### Share this post...
+
+- ![Share on Facebook](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/09/facebook.png)
+- ![Share on Twitter](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/09/twitter.png)
+- ![Share on LinkedIn](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/09/linkedin.png)
+- ![Share via Email](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/09/email.png)
+- ![Share on WhatsApp](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/09/whatsapp.png)
+
+#### Read Next
+
+[**See All**](https://coastiescard.com.au/category/coastiesmag/)
+
+![Craig Farrugia Building Design](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2022/09/CFBD-Craig-Farrugia-Building-Design-Terrigal-005-1-300x200.jpg)  
+[**Why CFBD needs to be your number one choice when designing your new Coastie home**](https://coastiesmag.com.au/craig-farrugia-building-design-central-coast/)
+
+![Salads Gosford](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2023/03/OG-Bowls-240x300.jpg)  
+[**The new food openings on the Coast you need to visit sharpish**](https://coastiesmag.com.au/the12-new-openings-on-the-coast-you-need-to-visit-sharpish/)
+
+![5 lands walk, central coast](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2024/05/MacstoCopa1-300x259.jpeg)   
+[**5 Lands Walk Central Coast**](https://coastiesmag.com.au/5-lands-walk-central-coast/)
+
+## Local Deals
+
+### Luminiah Energy Enhancement Centre
+
+![Luminiah Energy Enhancement Centre](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2024/06/Luminiah-Central-Coast-395x275.jpg)  
+[**Luminiah Energy Enhancement Centre**](https://coastiesmag.com.au/listing/luminiah-energy-enhancement-centre/) – Point Clare, NSW 2250
+
+### Mint Equity
+
+![Mint Equity](https://wsrv.nl/?url=https://coastiesmag.com.au/wp-content/uploads/2024/05/Mint-Equity-Coasties-Card-1-395x275.jpg)  
+[**Mint Equity**](https://coastiesmag.com.au/listing/mint-equity/)  
+Level 2, Platinum Building, 4 Ilya Avenue, Erina NSW 2250
+
+More listings and local deals are available—[View All Listings](https://coastiesmag.com.au/listing/)

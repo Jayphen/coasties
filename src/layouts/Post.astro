@@ -1,0 +1,56 @@
+---
+interface Props {
+frontmatter: {
+title: string; author: string; date: string;};
+}
+
+const { frontmatter } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Meta desc TODO" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{frontmatter.title}</title>
+	</head>
+	<body>
+    <h1>{frontmatter.title}</h1>
+    <div class="meta">
+      Author: <span>{frontmatter.author}</span>, Date: <span>{frontmatter.date}</span>
+    </div>
+		<slot />
+	</body>
+</html>
+<style is:global>
+	:root {
+		--accent: #a0d8cf;
+		--accent-light: #88c4c0;
+		--accent-dark: 49, 10, 101;
+		--accent-gradient: linear-gradient(
+			45deg,
+			rgb(var(--accent)),
+			rgb(var(--accent-light)) 30%,
+			white 60%
+		);
+	}
+	html {
+    font-family: "Source Sans Pro", system-ui, sans-serif;
+		background: #fff;
+    color: #444;
+	}
+	code {
+		font-family:
+			Menlo,
+			Monaco,
+			Lucida Console,
+			Liberation Mono,
+			DejaVu Sans Mono,
+			Bitstream Vera Sans Mono,
+			Courier New,
+			monospace;
+	}
+</style>

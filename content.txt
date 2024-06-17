@@ -1,0 +1,387 @@
+<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-daa2135 elementor-widget elementor-widget-post-info" data-id="daa2135" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-636f294 elementor-inline-item" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Back to</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://coastiesmag.com.au/category/coastiesmag/things-to-do-central-coast/" class="elementor-post-info__terms-list-item">Things To Do</a>				</span>
+					</span>
+								</li>
+				</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-45e69fc elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="45e69fc" data-element_type="widget" data-widget_type="theme-post-title.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Whale Watching on the Central Coast: The Best Places to Spot Them</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3209ba0 elementor-widget elementor-widget-post-info" data-id="3209ba0" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-932e9f4 elementor-inline-item" itemprop="author">
+						<a href="https://coastiesmag.com.au/author/tash/">
+											<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="far fa-user-circle"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+										Tash Robertson					</span>
+									</a>
+				</li>
+				<li class="elementor-icon-list-item elementor-repeater-item-82e88a4 elementor-inline-item" itemprop="datePublished">
+						<a href="https://coastiesmag.com.au/2024/05/22/">
+											<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-calendar"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+										May 22, 2024					</span>
+									</a>
+				</li>
+				<li class="elementor-icon-list-item elementor-repeater-item-636f294 elementor-inline-item" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://coastiesmag.com.au/category/coastiesmag/things-to-do-central-coast/" class="elementor-post-info__terms-list-item">Things To Do</a>				</span>
+					</span>
+								</li>
+				</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e5b985d <span>Things To Do</span> elementor-widget elementor-widget-theme-post-content" data-id="e5b985d" data-element_type="widget" data-widget_type="theme-post-content.default">
+				<div class="elementor-widget-container">
+			<span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading Time: </span> <span class="rt-time">8</span> <span class="rt-label rt-postfix">minutes <br></span></span><figure id="attachment_14046" aria-describedby="caption-attachment-14046" style="width: 819px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="size-large wp-image-14046" src="https://coastiesmag.com.au/wp-content/uploads/2023/06/hubjack70_1654584565_2855184732529159988_5453557183-819x1024.jpg" alt="Whale watching central coast " width="819" height="1024" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/06/hubjack70_1654584565_2855184732529159988_5453557183-819x1024.jpg 819w, https://coastiesmag.com.au/wp-content/uploads/2023/06/hubjack70_1654584565_2855184732529159988_5453557183-240x300.jpg 240w, https://coastiesmag.com.au/wp-content/uploads/2023/06/hubjack70_1654584565_2855184732529159988_5453557183-768x960.jpg 768w, https://coastiesmag.com.au/wp-content/uploads/2023/06/hubjack70_1654584565_2855184732529159988_5453557183.jpg 1214w" sizes="(max-width: 819px) 100vw, 819px"><figcaption id="caption-attachment-14046" class="wp-caption-text">Image by @Hubjack70</figcaption></figure>
+<p>&nbsp;</p>
+<h2>Best Central Coast Whale Watching Spots</h2>
+<p>&nbsp;</p>
+<p>The whales are about to start their journey past the Central Coast and grace our waters with their presence. From our many talented drone photographers to locals who love to catch glimpses of the whales, everyone is waiting with bated breath for their first sighting.&nbsp; We have heard that a few have been spotted already, so keep those beady eyes of yours peeled.</p><div class="code-block code-block-2" data-ai="WzIsMCwiSU4tTElORSBBUlRJQ0xFIC0gU1BPVCAxIExDQyBFdmVudHMgNiBtYXkgLSAxOSBtYXkiLCIiLDFd" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<p style="text-align: center;"><strong><em>ADVERTISEMENT:</em></strong></p><p style="text-align: center;"><a href="https://www.lovecentralcoast.com/events" target="_blank" rel="noopener"><img loading="lazy" class="alignnone wp-image-13932" src="https://coastiesmag.com.au/wp-content/uploads/2024/05/600x500_Inline-Article_Whats-On-1024x853.png" alt="Central Coast events" width="600" height="500"></a></p><p>&nbsp;</p><p style="text-align: center;">&nbsp;</p><p><a href="https://coastsheltersleepout.com.au/t/coasties-mag-team" target="_blank" rel="noopener">&nbsp;</a></p></div>
+
+<p>As always we have done the hard yards and popped together this handy list of all of the very best of the Central Coast’s whale watching locations (as well as handy tips on where you can support local while grabbing a cuppa or a bite to eat).</p>
+<p>Our region is set to welcome over 25,000 humpback whales to our waters during the migration months of May through November.&nbsp; It is no wonder that this mass movement of these majestic creatures has been termed the “Humpback Highway”.&nbsp; Travelling from Antarctica and towards the warmer waters of the Pacific, the whales glide through our region’s waters en mass playfully breeching and slapping their fins and tails, a truly wonderful sight to see in real life.&nbsp; Being on the Central Coast we are so lucky as our region boasts some truly outstanding vantage points, where even without binoculars, a drone or a fancy camera in hand you get the opportunity to see the whales up pretty close to shore.</p>
+<p>&nbsp;</p>
+<h3>Best places to&nbsp; spot whales on the Central Coast</h3>
+<p>&nbsp;</p>
+<figure id="attachment_12022" aria-describedby="caption-attachment-12022" style="width: 759px" class="wp-caption alignnone"><img decoding="async" class="wp-image-12022 size-full" src="https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2088.jpg" alt="Whales central coast" width="759" height="1000" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2088.jpg 759w, https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2088-228x300.jpg 228w" sizes="(max-width: 759px) 100vw, 759px"><figcaption id="caption-attachment-12022" class="wp-caption-text">Image by @fromabove.images</figcaption></figure>
+<h3>Best Whale Watching spots on the Central Coast</h3>
+<p>&nbsp;</p>
+<p><strong>Crackneck Lookout, Wyrrabalong National Park</strong></p>
+<p>&nbsp;</p>
+<figure id="attachment_12120" aria-describedby="caption-attachment-12120" style="width: 971px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-12120" src="https://coastiesmag.com.au/wp-content/uploads/2023/06/image008-1.png" alt="Upgrade to Crackneck lookout great for Whale Watching" width="971" height="726" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/06/image008-1.png 971w, https://coastiesmag.com.au/wp-content/uploads/2023/06/image008-1-300x224.png 300w, https://coastiesmag.com.au/wp-content/uploads/2023/06/image008-1-768x574.png 768w, https://coastiesmag.com.au/wp-content/uploads/2023/06/image008-1-550x410.png 550w" sizes="(max-width: 971px) 100vw, 971px"><figcaption id="caption-attachment-12120" class="wp-caption-text">Upgrade to Crackneck lookout now complete – image supplied</figcaption></figure>
+<p><a href="https://www.nationalparks.nsw.gov.au/things-to-do/lookouts/crackneck-point-lookout" target="_blank" rel="noopener">Crackneck Lookout</a> is the ultimate Central Coast whale watching spot, the views are uninterrupted!&nbsp; Newly renovated last year means that this spot has become only better to spend some time at.&nbsp; There are plenty of picnic tables or benches available to grab a spot to sit and watch while the kids can enjoy playing on the levelled-out tiers of grassed areas.&nbsp; Alternative for those feeling energetic you can walk the 3km trail and spot along the way at the various vantage points.</p>
+<p>&nbsp;</p>
+<p>During peak season and school holidays, this popular spot becomes busy and parking can be tricky, so our hot tip is to get there early. Grab a coffee from&nbsp;&nbsp;<a href="https://www.facebook.com/bateaubeachcafe/" target="_blank" rel="noopener">Bateau Beach Cafe</a> pack yourselves a picnic and spend the morning in the winter sunshine for hours enjoying the view.</p>
+<p>&nbsp;</p>
+<p><strong>Cromarty Hill, Forresters Beach</strong></p><div class="code-block code-block-1" data-ai="WzEsMCwiSU5MSU5FIEFSVElDTEUgLSBTcG90IDIgU2t5ZGl2ZSAyMyBBUHJpbCAyIHdlZWtzIiwiIiwxXQ==" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<p style="text-align: center;"><em><strong>ADVERTISEMENT:</strong></em></p><p><a href="https://www.skydive.com.au/locations/sydney-newcastle/" target="_blank" rel="noopener"><img loading="lazy" class="size-full wp-image-13878 aligncenter" src="https://coastiesmag.com.au/wp-content/uploads/2024/04/SkydiveNewcastle_CoastiesAd_600x500px.jpg" alt="Skydive Central Coast " width="600" height="500"></a></p></div>
+
+<p>Whether you’ve parked at Crackneck Lookout and walked over, or simply driven up to Cromarty Hill, you will not be disappointed by the views on offer. You can look south back towards Forresters Beach and Terrigal, or directly east across the vast ocean. There is limited parking available and a narrow, residential road, so be sure to take it easy and mind the walkers.</p>
+<p><span class="WdYUQQ">Forries best coffee spots are </span><span class="WdYUQQ"><a href="http://dimatteos.com.au/" target="_blank" rel="noopener">Di Matteos</a> or <a href="https://www.facebook.com/driftcoffeekazbah/" target="_blank" rel="noopener">Drift Coffee Kazbah</a></span></p>
+<p>&nbsp;</p>
+<p><strong>The Skillion, Terrigal</strong></p>
+<figure id="attachment_12568" aria-describedby="caption-attachment-12568" style="width: 1024px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-large wp-image-12568" src="https://coastiesmag.com.au/wp-content/uploads/2023/09/fromabove.images_369178519_18009612775872142_4156587317966829470_n-1024x767.jpg" alt="Places to visit on the Central coast" width="1024" height="767" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/09/fromabove.images_369178519_18009612775872142_4156587317966829470_n-1024x767.jpg 1024w, https://coastiesmag.com.au/wp-content/uploads/2023/09/fromabove.images_369178519_18009612775872142_4156587317966829470_n-300x225.jpg 300w, https://coastiesmag.com.au/wp-content/uploads/2023/09/fromabove.images_369178519_18009612775872142_4156587317966829470_n-768x575.jpg 768w, https://coastiesmag.com.au/wp-content/uploads/2023/09/fromabove.images_369178519_18009612775872142_4156587317966829470_n.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption id="caption-attachment-12568" class="wp-caption-text">The Skillion in Terrigal by From Above Images by Christopher</figcaption></figure>
+<p>&nbsp;</p>
+<p>The Skillion and the whole headland in Terrigal offer many great locations to view the whales from.&nbsp; Often we find the small car park between the two big headlands opposite the rugby club is an epic spot.&nbsp; There is a grassed area where you can set up a picnic or you can also head down onto the rocks closer to the water.&nbsp; Please note: this area is not patrolled so you need to be cautious and safe, especially if the weather is wet and the swell large.</p>
+<p>&nbsp;</p>
+<p>Another crowd-pleaser for whale watching in Terrigal is The Skillion, this is the steepest hill found at Terrigal Haven. If there are whales in the area, you’ll definitely see them from up here. Plus there are many cool cafes for a coffee or breakfast stop after all that walking. Plus, views, views and more views for days from so many spots around the Haven.</p><div class="code-block code-block-8" data-ai="WzgsMCwiQmxvY2sgOCBTcG90IDMgY2NhcmQgZW5kIGphbiIsIiIsMV0=" style="margin: 8px 0; clear: both;">
+<p style="text-align: center;"><strong><em>ADVERTISEMENT:</em></strong></p><p style="text-align: center; margin-bottom: 40px;"><a href="https://coastiesmag.com.au/subscription-plan/" target="_blank" rel="noopener"><img loading="lazy" class="alignnone size-full wp-image-12569" src="https://coastiesmag.com.au/wp-content/uploads/2023/09/Inline-display-ad-1.png" alt="Coasties Card App" width="600" height="500"></a></p></div>
+
+<p>Our suggestions for caffeine: <a href="https://terrigalpavilion.com.au/" target="_blank" rel="noopener">Terrigal Pav Pop Up</a> (note the Pavilion’s renovations are due to start in June 2024 so it is just the pop up window that will remain open during this time. Or <span class="WdYUQQ">the&nbsp;<a href="https://www.facebook.com/HavenBeachRestaurantandKiosk/" target="_blank" rel="noopener">Haven Kiosk, </a></span>great coffee and even better seafood.</p>
+<p>&nbsp;</p>
+<p><em><strong>RELATED: <a href="https://coastiesmag.com.au/whale-watching-crackneck-central-coast/" target="_blank" rel="noopener">Central Coast Whale Watching Spot Crackneck Lookout’s Upgrade is Complete</a></strong></em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Captain Cook Lookout, Copacabana Beach</strong></p>
+<p>While it’s a bit of a trek to Captain Cook Lookout, it’s one of the best vantage points to watch whales on the Central Coast. Hugely popular year round, here you’ll be able to look out to the ocean that runs all the way to Terrigal, through Avoca and down to Macmasters. In other words, whale spotting is just about guaranteed.&nbsp; *Please note, “almost”, whales are creatures out in the wild, we of course cannot guarantee they will show up when you show up to see them!</p>
+<p><strong>Coffee</strong>:&nbsp;<a href="https://ohblesshome.com.au/" target="_blank" rel="noopener">Oh Bless Home</a>&nbsp;or&nbsp;<a href="https://www.instagram.com/thebeeskneeseatery/" target="_blank" rel="noopener">The Bees Knees Eatery</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Norah Head Lighthouse, Norah Head</strong></p>
+<figure id="attachment_14047" aria-describedby="caption-attachment-14047" style="width: 819px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-large wp-image-14047" src="https://coastiesmag.com.au/wp-content/uploads/2023/06/clay.sweetman_1696581834_3207483357885429721_8454454067-_1_-819x1024.jpg" alt="Whale watching central coast" width="819" height="1024" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/06/clay.sweetman_1696581834_3207483357885429721_8454454067-_1_-819x1024.jpg 819w, https://coastiesmag.com.au/wp-content/uploads/2023/06/clay.sweetman_1696581834_3207483357885429721_8454454067-_1_-240x300.jpg 240w, https://coastiesmag.com.au/wp-content/uploads/2023/06/clay.sweetman_1696581834_3207483357885429721_8454454067-_1_-768x960.jpg 768w, https://coastiesmag.com.au/wp-content/uploads/2023/06/clay.sweetman_1696581834_3207483357885429721_8454454067-_1_-1229x1536.jpg 1229w, https://coastiesmag.com.au/wp-content/uploads/2023/06/clay.sweetman_1696581834_3207483357885429721_8454454067-_1_.jpg 1440w" sizes="(max-width: 819px) 100vw, 819px"><figcaption id="caption-attachment-14047" class="wp-caption-text">Image by Clay Sweetman</figcaption></figure>
+<p>Whale season or not, <a href="https://norahheadlighthouse.com.au/" target="_blank" rel="noopener">Norah Head Lighthouse</a> is an iconic Central Coast landmark that is always worth a visit. You can park at the lighthouse or if you prefer a bush walk, park at Norah Head General Store. You walk through the bush to the lighthouse and then down the stairs to the rock shelf where you can loop back around to the café via the beach. Takes less than an hour in total, and you’ll undoubtedly see whales. It is also it’s a prime spot for spotting pods of playful dolphins.</p>
+<p class="_04xlpA direction-ltr align-start para-style-body"><span class="WdYUQQ"><strong>Coffee</strong>: </span><a href="https://www.facebook.com/thegeneralstorenh/" target="_blank" rel="noopener"><span class="WdYUQQ">Norah Head Beach Haus</span></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Bouddi Coastal Walk, Bouddi National Park </strong></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-11879" src="https://coastiesmag.com.au/wp-content/uploads/2022/05/bouddi-1024x683.jpg" alt="bouddi coastal walk best places to whale watch central coast" width="1024" height="683" srcset="https://coastiesmag.com.au/wp-content/uploads/2022/05/bouddi-1024x683.jpg 1024w, https://coastiesmag.com.au/wp-content/uploads/2022/05/bouddi-300x200.jpg 300w, https://coastiesmag.com.au/wp-content/uploads/2022/05/bouddi-768x512.jpg 768w, https://coastiesmag.com.au/wp-content/uploads/2022/05/bouddi-100x66.jpg 100w, https://coastiesmag.com.au/wp-content/uploads/2022/05/bouddi.jpg 1504w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+<p>&nbsp;</p>
+<p>The Bouddi Coastal Walk in <a href="https://www.nationalparks.nsw.gov.au/visit-a-park/parks/bouddi-national-park" target="_blank" rel="noopener">Bouddi National Park</a> runs from Putty Beach to Macmasters Beach, with a large part of the 8.km boardwalk offering outstanding ocean views and ample opportunity to spot whales. Take a picnic with you and enjoy at any of the many beaches you pass along the way. A wintery swim at one of the many beautiful spots along the way should also be part of your plan.</p>
+<p><strong><span class="WdYUQQ">Coffee</span></strong><span class="WdYUQQ">: Hardy’s Bistro or <a href="https://www.thefatgoose.com.au/" target="_blank" rel="noopener">The Fat Goose</a></span></p>
+<p>&nbsp;</p>
+<figure id="attachment_12021" aria-describedby="caption-attachment-12021" style="width: 640px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="wp-image-12021 size-full" src="https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res.jpg" alt="Whale Watching Spots Central Coast" width="640" height="640" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res.jpg 640w, https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res-300x300.jpg 300w, https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res-150x150.jpg 150w, https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res-100x100.jpg 100w, https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res-600x600.jpg 600w, https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res-32x32.jpg 32w, https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res-64x64.jpg 64w, https://coastiesmag.com.au/wp-content/uploads/2023/05/med_res-260x260.jpg 260w" sizes="(max-width: 640px) 100vw, 640px"><figcaption id="caption-attachment-12021" class="wp-caption-text">Image by @zeemerven</figcaption></figure>
+<p>&nbsp;</p>
+<p><strong>Bateau Bay Beach Viewing Area</strong></p>
+<p>This sandstone viewing platform over Bateau Bay beach is a prime spot for whale watching on the Central Coast, even if it’s not as elevated as the rest. Best of all, there’s plenty of parking, great coffee at the B<a href="https://www.facebook.com/bateaubeachcafe/" target="_blank" rel="noopener">ateau Beach Café</a> and picnic tables throughout. If you enjoy a bushwalk you can walk north towards Shelley Beach, or south up to Crackneck Lookout for an even more spectacular view.</p>
+<p><span class="WdYUQQ"><strong>Coffee</strong>: </span><span class="WdYUQQ"><a href="https://www.facebook.com/profile.php?id=100063034669430" target="_blank" rel="noopener">Cafe Mocha</a></span></p>
+<p>&nbsp;</p>
+<p><strong>Toowoon Bay Beach</strong></p>
+<p>If you’re walking or cycling the Coast to Lake walk as you pass through Toowoon we suggest you make a detour on Toowoon Bay Rd, at the end toward the water there are some steps down to the water and a couple of park benches. You’ll often be able to spot the whales from here as well as if you head down to the beach to take a dip in the ocean.</p>
+<p>Pick up a breaky roll and coffee at <a href="https://www.instagram.com/flourandco_/?hl=en" target="_blank" rel="noopener">Flour &amp; Co</a> at the Toowoon shops or down on the beach at the <a href="https://www.facebook.com/VillageKiosk/" target="_blank" rel="noopener">Village Kiosk</a> on the beach.</p>
+<p>&nbsp;</p>
+<p><strong><em>You might also like to try:&nbsp; <a title="The Top 10 Central Coast Walks For a Nature Hit" href="https://coastiesmag.com.au/10-central-coast-walks-nature/" target="_blank" rel="noopener">The Top 10 Central Coast Walks For a Nature Hit</a></em></strong></p>
+<p>&nbsp;</p>
+<figure id="attachment_9256" aria-describedby="caption-attachment-9256" style="width: 833px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-large wp-image-9256" src="https://coastiesmag.com.au/wp-content/uploads/2021/05/Whale-DronedOutPhotography-833x1024.jpeg" alt="whale watching central coast" width="833" height="1024" srcset="https://coastiesmag.com.au/wp-content/uploads/2021/05/Whale-DronedOutPhotography-833x1024.jpeg 833w, https://coastiesmag.com.au/wp-content/uploads/2021/05/Whale-DronedOutPhotography-244x300.jpeg 244w, https://coastiesmag.com.au/wp-content/uploads/2021/05/Whale-DronedOutPhotography-768x944.jpeg 768w, https://coastiesmag.com.au/wp-content/uploads/2021/05/Whale-DronedOutPhotography-1250x1536.jpeg 1250w, https://coastiesmag.com.au/wp-content/uploads/2021/05/Whale-DronedOutPhotography.jpeg 1666w" sizes="(max-width: 833px) 100vw, 833px"><figcaption id="caption-attachment-9256" class="wp-caption-text">Whale watching on the Central Coast. Image by @dronedoutphotography</figcaption></figure>
+<h3></h3>
+<p>&nbsp;</p>
+<h2>Whale watching tours on the Central Coast</h2>
+<p>Prefer to go on a whale watching tour? We don’t blame you!&nbsp; For those who have great sea legs, this is your chance to get even more up close and personal with these gorgeous creatures. Plus you get to learn a stack when on a guided tour and given that most vantage points require you to walk up a hill you get to save those pins from the burn!</p>
+<p>&nbsp;</p>
+<p><strong>Terrigal Ocean Tours</strong></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-large wp-image-11882" src="https://coastiesmag.com.au/wp-content/uploads/2023/05/terrigalocean_308791246_167589469261735_7213559234428319276_n-1-1024x719.jpg" alt="terrigal ocean tours whale watching central coast" width="1024" height="719" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/05/terrigalocean_308791246_167589469261735_7213559234428319276_n-1-1024x719.jpg 1024w, https://coastiesmag.com.au/wp-content/uploads/2023/05/terrigalocean_308791246_167589469261735_7213559234428319276_n-1-300x211.jpg 300w, https://coastiesmag.com.au/wp-content/uploads/2023/05/terrigalocean_308791246_167589469261735_7213559234428319276_n-1-768x539.jpg 768w, https://coastiesmag.com.au/wp-content/uploads/2023/05/terrigalocean_308791246_167589469261735_7213559234428319276_n-1.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+<p>&nbsp;</p>
+<p>The most popular whale watching tour on the Central Coast is <a href="https://terrigaltours.com.au/" target="_blank" rel="noopener">Terrigal Ocean Tours</a>. Whale watching tours with Terrigal Ocean Tours run from May through to November. They depart Terrigal and sail around the Central Coast waters to find whales, with a 60 minute trip costing $70 at weekends and $60 midweek. They also accept Discover &amp; Parents NSW Vouchers.</p>
+<p>&nbsp;</p>
+<p><strong>Whale Watching Sydney</strong></p>
+<p>&nbsp;</p>
+<figure id="attachment_12023" aria-describedby="caption-attachment-12023" style="width: 866px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="wp-image-12023 size-full" src="https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2089.jpg" alt="Central Coast whale watching" width="866" height="1000" srcset="https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2089.jpg 866w, https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2089-260x300.jpg 260w, https://coastiesmag.com.au/wp-content/uploads/2023/05/IMG_2089-768x887.jpg 768w" sizes="(max-width: 866px) 100vw, 866px"><figcaption id="caption-attachment-12023" class="wp-caption-text">Image by @fromabove.images</figcaption></figure>
+<p>There’s also<a href="https://www.whalewatchingsydney.com.au/cruises/central-coast-whale-watching/" target="_blank" rel="noopener"> Whale Watching Sydney</a> that offer Central Coast Whale Watching tours from Ettalong, departing on Saturdays during whale season, get in quick, spots are filling up fast. The tour costs $85 per adult (child &amp; concession prices are available). They offer a whale guarantee which means if you don’t spot them you can re-book for free at another date.</p>
+<p><em><strong>Continue reading:</strong></em></p>
+<p><em><strong><a title="The Best Spots on The Central Coast for a Picnic" href="https://coastiesmag.com.au/beautiful-picnic-spots-on-the-central-coast/" target="_blank" rel="noopener"><em><strong>The Best Spots on T</strong></em>he Central Coast for a Picnic</a></strong></em></p>
+<p><em><strong><a title="Your Guide to Running on the Central Coast" href="https://coastiesmag.com.au/active-running-and-walking-events-and-courses-on-the-central-coast/" target="_blank" rel="noopener">Your Guide to Running on the Central Coast</a></strong></em></p>
+<p>&nbsp;</p>
+<h3><strong>Why do Whales migrate?</strong></h3>
+<p>Around 25,000 humpback whales travel 5,000 kilometres from their summer feeding grounds near Antarctica to the warmer waters off Queensland and the Coral Sea to mate and give birth.</p>
+<h3><strong>What types of whales can you expect to see on the Central Coast?</strong></h3>
+<p>While humpback whales are the most spotted breed, the Central Coast has also been the sighting ground for southern right whales, minke whales and on the rare occasion there have even been orcas spotted in the waters off the Central Coast.</p>
+<h3><strong>Will I spot a whale?</strong></h3>
+<p>The migration season brings many chances for whale spotting off our coast, with the months of June &amp; July often renowned for some of the busiest month for the Central Coast spotting enthusiasts. If you’re going to spot a whale, this is the time. With 25,000 humpback whales migrating north along Australia’s East Coast there’s a good chance you’ll spot a whale off the Central Coast headlands.</p>
+<h3><strong>When is the best time of day to see a whale?</strong></h3>
+<p>You can spot a whale on the Central Coast at any time of day, but the morning time is usually the best due to the sunrise lighting illuminating their whale blow more clearly.</p>
+<h3><strong>What to look out for when whale spotting on the Central Coast?</strong></h3>
+<p>When looking out across the vast oceans, scan the water for imperfections and interruptions to the water’s surface. This could be an indication of a majestic whale just below the surface.</p>
+<p>However, the most magical way to spot a whale is most certainly the glorious breach. This is when a whale propels two thirds of their body out of the water, landing with a ginormous splash. On the Central Coast, the whales appear to enjoy breaching often.</p>
+<p>You can also look out for a blow, a thick spout of water shooting out from the ocean. Each variety of whale has a different blow which helps marine experts identify which species of whale they are.</p>
+<div class="post-views content-post post-6611 entry-meta">
+				<span class="post-views-icon dashicons dashicons-chart-bar"></span> <span class="post-views-label">Post Views:</span> <span class="post-views-count">20,191</span>
+			</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e463def elementor-button-info elementor-align-center hide elementor-widget elementor-widget-button" data-id="e463def" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-lg" href="https://coastiescard.com.au/search-deals/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Check Out The Latest Coasties Card Deals</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bec77e0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bec77e0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-326b418" data-id="326b418" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2fe6c30 elementor-widget elementor-widget-heading" data-id="2fe6c30" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Share this post...</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9eebc9a elementor-share-buttons--view-icon elementor-share-buttons--skin-framed elementor-share-buttons--shape-square elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="9eebc9a" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_facebook" tabindex="0" aria-label="Share on facebook">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_twitter" tabindex="0" aria-label="Share on twitter">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_linkedin" tabindex="0" aria-label="Share on linkedin">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-linkedin" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_email" tabindex="0" aria-label="Share on email">
+															<span class="elementor-share-btn__icon">
+								<i class="fas fa-envelope" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div class="elementor-share-btn elementor-share-btn_whatsapp" tabindex="0" aria-label="Share on whatsapp">
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-whatsapp" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0533639 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0533639" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0165d71" data-id="0165d71" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-24c8f2f elementor-widget elementor-widget-heading" data-id="24c8f2f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Read Next </h4>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-60d810c" data-id="60d810c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-54a5940 elementor-widget elementor-widget-heading" data-id="54a5940" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default"><a href="https://coastiescard.com.au/category/coastiesmag/">See All</a></h4>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-84c4dc1 next-post elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="84c4dc1" data-element_type="widget" data-settings="{&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;classic_columns&quot;:&quot;3&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_columns_mobile&quot;:&quot;1&quot;,&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid elementor-has-item-ratio">
+				<article class="elementor-post elementor-grid-item post-10202 post type-post status-publish format-standard has-post-thumbnail hentry category-lets-shop category-support-local-coastiesmag">
+				<a class="elementor-post__thumbnail__link" href="https://coastiesmag.com.au/craig-farrugia-building-design-central-coast/">
+			<div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="200" src="https://coastiesmag.com.au/wp-content/uploads/2022/09/CFBD-Craig-Farrugia-Building-Design-Terrigal-005-1-300x200.jpg" class="attachment-medium size-medium wp-image-10213" alt="Craig Farrugia Building Design"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://coastiesmag.com.au/craig-farrugia-building-design-central-coast/">
+				Why CFBD needs to be your number one choice when designing your new Coastie home.			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-5756 post type-post status-publish format-standard has-post-thumbnail hentry category-restaurants-central-coast tag-bar tag-bar-central-coast tag-central-coast tag-cocktails tag-dining tag-food-and-wine tag-gosford tag-gosford-eats tag-new-openings tag-terrigal tag-toukley tag-tuggerah">
+				<a class="elementor-post__thumbnail__link" href="https://coastiesmag.com.au/the12-new-openings-on-the-coast-you-need-to-visit-sharpish/">
+			<div class="elementor-post__thumbnail"><img loading="lazy" width="240" height="300" src="https://coastiesmag.com.au/wp-content/uploads/2023/03/OG-Bowls-240x300.jpg" class="attachment-medium size-medium wp-image-12096" alt="salads gosford"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://coastiesmag.com.au/the12-new-openings-on-the-coast-you-need-to-visit-sharpish/">
+				The new food openings on the Coast you need to visit sharpish			</a>
+		</h3>
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-14027 post type-post status-publish format-standard has-post-thumbnail hentry category-things-to-do-central-coast tag-avoca-beach tag-central-coast tag-central-coast-walks tag-kid-friendly tag-terrigal tag-things-to-do tag-what-to-do-on-the-central-coast">
+				<a class="elementor-post__thumbnail__link" href="https://coastiesmag.com.au/5-lands-walk-central-coast/">
+			<div class="elementor-post__thumbnail"><img loading="lazy" width="300" height="259" src="https://coastiesmag.com.au/wp-content/uploads/2024/05/MacstoCopa1-300x259.jpeg" class="attachment-medium size-medium wp-image-14028" alt="5 lands walk, central coast"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://coastiesmag.com.au/5-lands-walk-central-coast/">
+				5 Lands Walk Central Coast			</a>
+		</h3>
+				</div>
+				</article>
+				</div>
+
+
+		
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-043b1b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="043b1b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ac7b493" data-id="ac7b493" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-067d7cc elementor-widget elementor-widget-heading" data-id="067d7cc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Local Deals</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-743ef53 elementor-widget elementor-widget-all-listings" data-id="743ef53" data-element_type="widget" data-widget_type="all-listings.default">
+				<div class="elementor-widget-container">
+			<section class="papular-listing-2">
+          <div class="container">
+            <div class="row masonry_container">
+            	
+               <div class="col-md-12 col-sm-12 col-xs-12 nopadding">
+			   <div class="masonery_wrap" style="position: relative; height: 584px;"><div class="switcher-item col-md-4 col-sm-6 col-xs-12 masonery_item" style="position: absolute; left: 0%; top: 0px;">
+            <div class="gird_with_list foo" data-sr-id="1" style="; visibility: visible;  -webkit-transform: translateY(20px) scale(0.9); opacity: 0;transform: translateY(20px) scale(0.9); opacity: 0;">
+           <div class="switcher-image-box">
+		   
+                        <a href="https://coastiesmag.com.au/listing/luminiah-energy-enhancement-centre/" class="imz-over">
+                                <img class="group list-grid-switcher-image img-responsive" src="https://coastiesmag.com.au/wp-content/uploads/2024/06/Luminiah-Central-Coast-395x275.jpg" alt="Luminiah Energy Enha...">
+                        </a>
+                        
+                        
+                        
+                        
+				<span class="tool-tip bookmarkz-listing" title="Favourite"><a data-loading-text="<i class='fa fa-spinner fa-spin'></i>" data-listing-id="14103" href="javascript:void(0)" class="sonu-button-14103 bookmark-listing "><i class="fa fa-heart-o"></i></a></span>				
+                <span class="listing-tools irfan-class compare-prop fav-comp" data-bs-toggle="tooltip" data-bs-placement="right" data-compare-id="14103" data-bs-title="Compare"><i class="fa fa-random"></i></span>
+                </div>
+                <div class="caption">
+					 <h4 class="group inner list-grid-switcher-item-heading"><a href="https://coastiesmag.com.au/listing/luminiah-energy-enhancement-centre/"> Luminiah Energy Enha...</a></h4>
+					<ul class="list-inline">
+						
+						<li class="tool-tip" title="Listing Category"><a href="https://coastiesmag.com.au/categories/wellness/">Wellness</a></li>
+						<li class="tool-tip" title="Status">N/A</li>
+					</ul>
+					<p class="group inner list-grid-switcher-item-text">What would you do if you had vibrant energy and health? The Luminiah E...</p>
+			  
+                    <div class="venue">
+                    <span><i class="fa fa-map-marker"></i></span>
+               
+               
+                    Point Clare, NSW 2250</div>
+                </div>
+                <div class="authorz">
+        <div class="author-thumb">
+            <a class="if-no-img" href="https://coastiesmag.com.au/listing/luminiah-energy-enhancement-centre/"><img src="https://coastiesmag.com.au/wp-content/uploads/2024/06/Luminiah-logo-100x100.png" class="img-responsive" alt="Luminiah Energy Enha..."></a>
+        </div>
+        <div class="author-info">
+            <h6><a href="https://coastiesmag.com.au/listing/luminiah-energy-enhancement-centre/">Luminiah Energy Enhancement Centre</a></h6>
+            <span class="listing-date"><i class="far fa-clock"></i> June 4, 2024 </span>
+        </div>
+    </div>
+            </div>
+        </div><div class="switcher-item col-md-4 col-sm-6 col-xs-12 masonery_item" style="position: absolute; left: 33.3333%; top: 0px;">
+            <div class="gird_with_list foo" data-sr-id="2" style="; visibility: visible;  -webkit-transform: translateY(20px) scale(0.9); opacity: 0;transform: translateY(20px) scale(0.9); opacity: 0;">
+           <div class="switcher-image-box">
+		   
+                        <a href="https://coastiesmag.com.au/listing/mint-equity/" class="imz-over">
+                                <img class="group list-grid-switcher-image img-responsive" src="https://coastiesmag.com.au/wp-content/uploads/2024/05/Mint-Equity-Coasties-Card-1-395x275.jpg" alt="Mint Equity">
+                        </a>
+                        
+                        
+                        
+                        
+				<span class="tool-tip bookmarkz-listing" title="Favourite"><a data-loading-text="<i class='fa fa-spinner fa-spin'></i>" data-listing-id="13949" href="javascript:void(0)" class="sonu-button-13949 bookmark-listing "><i class="fa fa-heart-o"></i></a></span>				
+                <span class="listing-tools irfan-class compare-prop fav-comp" data-bs-toggle="tooltip" data-bs-placement="right" data-compare-id="13949" data-bs-title="Compare"><i class="fa fa-random"></i></span>
+                </div>
+                <div class="caption">
+					 <h4 class="group inner list-grid-switcher-item-heading"><a href="https://coastiesmag.com.au/listing/mint-equity/"> Mint Equity</a></h4>
+					<ul class="list-inline">
+						
+						<li class="tool-tip" title="Listing Category"><a href="https://coastiesmag.com.au/categories/handy-services/">Services</a></li>
+						<li class="tool-tip" title="Status">N/A</li>
+					</ul>
+					<p class="group inner list-grid-switcher-item-text">Discover Mint Equity, your trusted multi-award-winning mortgage broker...</p>
+			  
+                    <div class="venue">
+                    <span><i class="fa fa-map-marker"></i></span>
+               
+               
+                    Level 2, Platinum Building, 4 Ilya Avenue, Erina NSW 2250</div>
+                </div>
+                <div class="authorz">
+        <div class="author-thumb">
+            <a class="if-no-img" href="https://coastiesmag.com.au/listing/mint-equity/"><img src="https://coastiesmag.com.au/wp-content/uploads/2024/05/Mint-Equity-logo-100x100.png" class="img-responsive" alt="Mint Equity"></a>
+        </div>
+        <div class="author-info">
+            <h6><a href="https://coastiesmag.com.au/listing/mint-equity/">Mint Equity</a></h6>
+            <span class="listing-date"><i class="far fa-clock"></i> May 7, 2024 </span>
+        </div>
+    </div>
+            </div>
+        </div></div>
+				<div class="col-md-12 col-sm-12 col-xs-12">
+                  <div class="load-btn">
+                  <a href="#" class="btn btn-theme" target="_blank" rel="nofollow">View All Listings </a>
+                  </div>
+				  </div>
+			   </div>
+            </div>
+          </div>
+        </section>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
