@@ -1,0 +1,42 @@
+---
+export interface Props {
+  title: string;
+  url: string;
+  image: {
+    src: string;
+    alt: string;
+  };
+}
+
+const { url, title, image } = Astro.props;
+---
+
+<figure>
+  <a href={url}>
+    <img src={image.src} alt={image.alt} />
+
+    <figcaption>{title}</figcaption>
+  </a>
+</figure>
+
+<style>
+  figure {
+    margin: 0;
+    padding: 0;
+  }
+  figcaption {
+    text-align: center;
+    font-weight: 600;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+    display: grid;
+    gap: 0.5em;
+    &:hover {
+      img {
+        opacity: 0.8;
+      }
+    }
+  }
+</style>

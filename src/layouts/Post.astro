@@ -12,6 +12,7 @@ const { frontmatter } = Astro.props;
 
 import NewsletterSignup from "../components/NewsletterSignup.astro";
 import Nav from "../components/Nav.astro";
+import Latest from "../components/Latest.astro";
 ---
 
 <!doctype html>
@@ -38,6 +39,32 @@ import Nav from "../components/Nav.astro";
       </main>
       <aside>
         <NewsletterSignup />
+        <section class="latest-posts">
+          <Latest
+            url="https://coastiesmag.com.au/things-to-do-in-woy-woy/"
+            title="Things to do in Woy Woy"
+            image={{
+              alt: "Woy Woy Pelicans",
+              src: "https://wsrv.nl?url=https://coastiesmag.com.au/wp-content/uploads/2024/06/Woy-Woy-Pelicans-2-060963.jpg&w=300",
+            }}
+          />
+          <Latest
+            title="Discover the Central Coast's arts trail with us"
+            url="https://coastiesmag.com.au/central-coasts-arts-trail/"
+            image={{
+              alt: "The studio of Jo Stanes, a local Point Clare-based artist",
+              src: "https://wsrv.nl?url=https://coastiesmag.com.au/wp-content/uploads/2024/06/IMG-20240514-WA0012-1024x768.jpg&w=300",
+            }}
+          />
+          <Latest
+            title="New openings to support on the Central Coast this month"
+            url="https://coastiesmag.com.au/new-openings-to-support-on-the-central-coast-this-winter/"
+            image={{
+              alt: "Bambinos Kulnura",
+              src: "https://wsrv.nl?url=https://coastiesmag.com.au/wp-content/uploads/2024/04/435494558_122137205678196556_4393779736363878151_n-1024x802.jpg&w=300",
+            }}
+          />
+        </section>
       </aside>
     </div>
   </body>
@@ -122,6 +149,12 @@ import Nav from "../components/Nav.astro";
     font-weight: 600;
     font-size: 80%;
     padding-block: 1em;
+  }
+
+  .latest-posts {
+    display: grid;
+    gap: 2em;
+    margin-top: 3em;
   }
 
   @media (max-width: 80rem) {
