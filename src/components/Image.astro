@@ -1,0 +1,56 @@
+---
+export interface Props {
+  src: string;
+  alt: string;
+  width?: number;
+  height?: number;
+  srcset?: string;
+  sizes?: string;
+  caption?: string;
+  prioritize?: boolean;
+  credit?: string
+}
+
+const { src, alt, width, height, srcset, sizes, caption, credit } = Astro.props;
+
+---
+
+<figure>
+  <img 
+    src={src} 
+    alt={alt} 
+    width={width}
+    height={height}
+    loading="lazy" 
+    srcset={srcset}
+    sizes={sizes}
+  />
+  {(credit || caption) && <figcaption><span>{caption}</span><div class="credit">{credit}</div></figcaption>}
+</figure>
+
+<style>
+  figure { 
+    background: var(--accent-light);
+    padding: 0.5em;
+    max-width: 100%;
+    display: grid;
+    gap: 0.5em;
+    font-size: 80%;
+    margin: 0;
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    figcaption {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .credit {
+      text-align: right;
+    }
+
+  }
+</style>
