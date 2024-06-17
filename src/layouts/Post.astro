@@ -18,11 +18,18 @@ const { frontmatter } = Astro.props;
 		<title>{frontmatter.title}</title>
 	</head>
 	<body>
+    <div class="content-wrapper">
+    <main>
     <h1>{frontmatter.title}</h1>
     <div class="meta">
       Author: <span>{frontmatter.author}</span>, Date: <span>{frontmatter.date}</span>
     </div>
 		<slot />
+    </main>
+    <aside>
+      post sidebar
+    </aside>
+    </div>
 	</body>
 </html>
 <style is:global>
@@ -53,4 +60,39 @@ const { frontmatter } = Astro.props;
 			Courier New,
 			monospace;
 	}
+</style>
+
+<style>
+  body {
+  }
+  .content-wrapper {
+    margin-inline: auto;
+    /* magic width from origin stylesheet */
+    max-width: 1140px;
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 2em;
+
+    > * {
+      padding: 0.5em;
+    }
+
+    p {
+    line-height: 160%;
+    }
+
+    img {
+      max-width: 100%;
+      margin-inline: auto;
+      display: block;
+      + em {
+        display: block;
+        text-align: center;
+      }
+    }
+  }
+  aside {
+    background: #BB5A3A1F;
+
+  }
 </style>
