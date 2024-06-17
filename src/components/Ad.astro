@@ -1,0 +1,26 @@
+---
+interface Props {
+  alt: string;
+  url: string;
+  img: string;
+}
+
+const { alt, url, img } = Astro.props
+---
+
+<div class="ptnr">
+  <strong>Advertisement:</strong>
+  <a href={url} target="_blank"><img src={img} alt={alt} /></a>
+</div>
+
+<style>
+  .ptnr {
+    max-width: 60ch;
+    text-align: center;
+    display: grid;
+    gap: 1em;
+    font-size: 80%;
+    margin-inline: auto;
+    font-style: italic;
+  }
+</style>
