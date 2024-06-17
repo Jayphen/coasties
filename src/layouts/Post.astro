@@ -1,10 +1,12 @@
 ---
 interface Props {
 frontmatter: {
-title: string; author: string; date: string;};
+title: string; author: string; date: string; readingMinutes: number};
 }
 
 const { frontmatter } = Astro.props;
+
+import NewsletterSignup from "../components/NewsletterSignup.astro";
 ---
 
 <!doctype html>
@@ -22,12 +24,13 @@ const { frontmatter } = Astro.props;
     <main>
     <h1>{frontmatter.title}</h1>
     <div class="meta">
-      Author: <span>{frontmatter.author}</span>, Date: <span>{frontmatter.date}</span>
+      Author: <span>{frontmatter.author}</span>, Date: <span>{frontmatter.date}</span>,
+      Reading time: {frontmatter.readingMinutes} minutes
     </div>
 		<slot />
     </main>
     <aside>
-      post sidebar
+      <NewsletterSignup />
     </aside>
     </div>
 	</body>
@@ -35,7 +38,7 @@ const { frontmatter } = Astro.props;
 <style is:global>
 	:root {
 		--accent: #a0d8cf;
-		--accent-light: #88c4c0;
+		--accent-light: #BB5A3A1F;
 		--accent-dark: 49, 10, 101;
 		--accent-gradient: linear-gradient(
 			45deg,
@@ -47,7 +50,7 @@ const { frontmatter } = Astro.props;
 	html {
     font-family: "Source Sans Pro", system-ui, sans-serif;
 		background: #fff;
-    color: #444;
+    color: #000;
 	}
 	code {
 		font-family:
@@ -65,13 +68,16 @@ const { frontmatter } = Astro.props;
 <style>
   body {
   }
+  h1 {
+    text-wrap: balance;
+  }
   .content-wrapper {
     margin-inline: auto;
     /* magic width from origin stylesheet */
     max-width: 1140px;
     display: grid;
     grid-template-columns: 1fr 300px;
-    gap: 2em;
+    gap: 1em;
 
     > * {
       padding: 0.5em;
@@ -92,7 +98,6 @@ const { frontmatter } = Astro.props;
     }
   }
   aside {
-    background: #BB5A3A1F;
-
+    background: var(--accent-light)
   }
 </style>

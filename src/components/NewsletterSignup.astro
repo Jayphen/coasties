@@ -1,0 +1,65 @@
+---
+
+---
+
+<fieldset class="newsletter-signup">
+  <span>Sign up for the Coasties Newsletter</span>
+  <div class="email-input">
+  <label for="email">Email</label>
+  <input type="email" name="email" id="email" />
+  </div>
+  <button type="submit">Subscribe</button>
+  </div>
+</fieldset>
+
+<style>
+  fieldset {
+    margin: 0;
+    background: white;
+    border: 0;
+
+    > * + * {
+      margin-top: 1em;
+    }
+
+    input {
+      background: white;
+      padding: 0.5em;
+      border: 1px solid var(--accent-light);
+    }
+
+    span, label {
+      display: block;
+    }
+
+    span {
+      font-size: 1.35em;
+      text-align: center;
+      text-wrap: balance;
+    }
+  }
+
+  .email-input {
+    max-width: 100%;
+    display: grid;
+    gap: 0.5em;
+    label {
+      font-size: 80%;
+    }
+  }
+
+  button {
+    display: block;
+    width: 100%;
+    background: var(--accent);
+    color: white;
+    border: 0;
+    padding: 0.5em;
+    border-radius: 4px;
+    color: lch(from var(--accent) calc(l - 50) c h);
+    &:hover {
+      background: lch(from var(--accent) calc(l + 5) c h);
+    cursor: pointer;
+    }
+  }
+</style>
